@@ -1,0 +1,7 @@
+N:\MSSA notes and storage\coding\ASP.net\labs\GenericColections\GenericColections\bin\Debug\GenericColections.exe.config
+N:\MSSA notes and storage\coding\ASP.net\labs\GenericColections\GenericColections\bin\Debug\GenericColections.exe
+N:\MSSA notes and storage\coding\ASP.net\labs\GenericColections\GenericColections\bin\Debug\GenericColections.pdb
+N:\MSSA notes and storage\coding\ASP.net\labs\GenericColections\GenericColections\obj\Debug\GenericColections.csprojAssemblyReference.cache
+N:\MSSA notes and storage\coding\ASP.net\labs\GenericColections\GenericColections\obj\Debug\GenericColections.csproj.CoreCompileInputs.cache
+N:\MSSA notes and storage\coding\ASP.net\labs\GenericColections\GenericColections\obj\Debug\GenericColections.exe
+N:\MSSA notes and storage\coding\ASP.net\labs\GenericColections\GenericColections\obj\Debug\GenericColections.pdb
